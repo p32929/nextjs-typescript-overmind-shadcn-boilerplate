@@ -1,4 +1,5 @@
-import { config } from "@/overmind/OvermindHelper"
+
+import { config } from "@/lib/overmind/OvermindHelper"
 import { ThemeProvider as NextThemesProvider } from "next-themes"
 import { createOvermind } from "overmind"
 import { Provider } from "overmind-react"
